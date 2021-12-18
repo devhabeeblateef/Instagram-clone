@@ -1,5 +1,7 @@
+import MiniProfile from "./MiniProfile"
 import Posts from "./Posts"
 import Stories from "./Stories"
+import Suggestions from "./Suggestions"
 function feed() {
     return (
         <main className="grid grid-cols-1 md:grid-cols-2 md:max-w-3xl
@@ -12,9 +14,12 @@ function feed() {
             </section>
               
 
-            <section>
+            <section className="hidden xl:inline-grid md:col-span-1">
+                <div className="fixed top-20">
+                <MiniProfile  />
                 {/* Mini Profile */}
-                {/* Suggestions */}
+                <Suggestions />
+                </div>
             </section>
         </main>
     )
