@@ -2,7 +2,7 @@ import Image from "next/image";
 import {
     SearchIcon,
     PlusCircleIcon,
-    UserGroupIcon,j
+    UserGroupIcon,
     HeartIcon,
     PaperAirplaneIcon,
     MenuIcon,
