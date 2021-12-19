@@ -5,14 +5,14 @@ const posts = [
     {
         id: '123',
         username: 'sssss',
-        userImg: "https://links.papareact.com/3ke",
+        userImg: "https://elitdesignsapp.web.app/assets/img/profile-img.jpeg",
         img: "",
         caption: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
     },
     {
         id: '123',
         username: 'sssss',
-        userImg: "https://links.papareact.com/3ke",
+        userImg: "https://elitdesignsapp.web.app/assets/img/profile-img.jpeg",
         img: "",
         caption: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
     },

@@ -29,8 +29,19 @@ function Suggestions() {
                      src="https://images.unsplash.com/file-1635809686961-0440cea0b2fdimage" 
                      alt="profilepic_side" />
 
+                    <div className="flex-1 ml-4">
+                        <h2 className="font semi-bold text-sm">
+                            {profile.username}
+                        </h2>
+                        <h3 className="text-xs text-gray-400">
+                            Works at {profile.company.name}
+                        </h3>
                      <div>
                          </div>
+                     </div>
+                     <button className="text-blue-400 text-xs font-bold">
+                         Follow
+                     </button>
                      </div>
             ))}
         </div>
