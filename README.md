@@ -21,9 +21,7 @@ This is a fully functional Instagram clone built using modern web technologies. 
 - **Backend**: Mock API or Firebase Firestore (for storing posts and comments)  
 - **Deployment**: Vercel, Netlify, or any other preferred hosting platform  
 
-## 🌐 Live Demo  
-Explore the live version of the application here:  
-[Instagram Clone Demo](#) *(Add the live link when available)*  
+
 
 ## 🛠️ Installation Instructions
 
